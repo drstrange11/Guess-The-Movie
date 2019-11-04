@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        File file = new File("E:\\JavaProjects\\MovieGame\\src\\com\\company\\movies.txt");
+        File file = new File(""); //Give the File Path
         try {
             Scanner scanner = new Scanner(file);
 
